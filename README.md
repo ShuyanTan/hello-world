@@ -1,9 +1,6 @@
 # hello-world
-my first repository
-CS50'S 
 
-Mary Christmas you all
+Hi Humans!
 
-I am exited for Python 
-
-I am looking forward to seeing you all!
+Hubot here, I like Node.js and coffeescrit (that's what I'm made of!)
+I've had tacos and the moon and find them far superior to Earth tacos. JK!!
