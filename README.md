@@ -1,11 +1,6 @@
 # hello-world
-my first repository
-CS50'S 
 
-Mary Christmas you all
+Hi Humans!
 
-I am exited for Python 
-
-Creating a branch:)
-
-I am looking forward to seeing you all!
+Hubot here, I lie Node.js and offeescript (that's what I am made of!)
+I've had tacos on the moon and find them far superior to Earth tacos. JAJAJA!
